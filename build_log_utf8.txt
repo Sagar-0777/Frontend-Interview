@@ -1,0 +1,126 @@
+﻿
+> camonk-interview@0.0.0 build
+> tsc -b && vite build
+
+[36mvite v7.3.1 [32mbuilding client environment for production...[36m[39m
+transforming...
+[32mΓ£ô[39m 5 modules transformed.
+node.exe : 
+[31mΓ£ù[39m Build 
+failed in 382ms
+At line:1 char:1
++ & "C:\Program Files
+\nodejs/node.exe" 
+"C:\Program 
+Files\nodejs/node_mo 
+...
++ ~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~
+    + CategoryInfo   
+           : 
+NotSpecifi    ed: 
+([31mΓ£ù[39m     
+Build failed in 3    
+82ms:String) [], R   
+ emoteException
+    + 
+FullyQualifiedEr    
+rorId : NativeComm   
+ andError
+ 
+[31merror during 
+build:
+[31m[@tailwindcss/vi
+te:generate:build] 
+Cannot apply unknown 
+utility class 
+`border-border`[31m
+file: [36mC:/Users/D
+ell/OneDrive/Desktop/
+Blog Application Assi
+gnment/Frontend-Inter
+view/src/index.css[3
+1m
+    at 
+onInvalidCandidate (f
+ile:///C:/Users/Dell/
+OneDrive/Desktop/Blog
+%20Application%20Assi
+gnment/Frontend-Inter
+view/node_modules/tai
+lwindcss/dist/chunk-C
+T46QCH7.mjs:21:1511)
+    at Ce (file:///C:
+/Users/Dell/OneDrive/
+Desktop/Blog%20Applic
+ation%20Assignment/Fr
+ontend-Interview/node
+_modules/tailwindcss/
+dist/chunk-CT46QCH7.m
+js:16:36652)
+    at file:///C:/Use
+rs/Dell/OneDrive/Desk
+top/Blog%20Applicatio
+n%20Assignment/Fronte
+nd-Interview/node_mod
+ules/tailwindcss/dist
+/chunk-CT46QCH7.mjs:2
+1:355
+    at br (file:///C:
+/Users/Dell/OneDrive/
+Desktop/Blog%20Applic
+ation%20Assignment/Fr
+ontend-Interview/node
+_modules/tailwindcss/
+dist/chunk-CT46QCH7.m
+js:3:1718)
+    at I (file:///C:/
+Users/Dell/OneDrive/D
+esktop/Blog%20Applica
+tion%20Assignment/Fro
+ntend-Interview/node_
+modules/tailwindcss/d
+ist/chunk-CT46QCH7.mj
+s:3:1377)
+    at Ae (file:///C:
+/Users/Dell/OneDrive/
+Desktop/Blog%20Applic
+ation%20Assignment/Fr
+ontend-Interview/node
+_modules/tailwindcss/
+dist/chunk-CT46QCH7.m
+js:21:172)
+    at Wi (file:///C:
+/Users/Dell/OneDrive/
+Desktop/Blog%20Applic
+ation%20Assignment/Fr
+ontend-Interview/node
+_modules/tailwindcss/
+dist/chunk-CT46QCH7.m
+js:38:294)
+    at async Za (file
+:///C:/Users/Dell/One
+Drive/Desktop/Blog%20
+Application%20Assignm
+ent/Frontend-Intervie
+w/node_modules/tailwi
+ndcss/dist/chunk-CT46
+QCH7.mjs:38:631)
+    at async rf (file
+:///C:/Users/Dell/One
+Drive/Desktop/Blog%20
+Application%20Assignm
+ent/Frontend-Intervie
+w/node_modules/tailwi
+ndcss/dist/chunk-CT46
+QCH7.mjs:38:1406)
+    at async lu (file
+:///C:/Users/Dell/One
+Drive/Desktop/Blog%20
+Application%20Assignm
+ent/Frontend-Intervie
+w/node_modules/@tailw
+indcss/node/dist/inde
+x.mjs:10:3458)[39m
